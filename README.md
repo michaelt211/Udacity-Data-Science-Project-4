@@ -31,3 +31,6 @@ References
 - Python 
 - Pyspark Documentation
 - Stack overflow 
+
+Link to blog post 
+https://medium.com/@michael.preston/how-to-predict-user-churn-with-machine-learning-5adfd10c93a1
